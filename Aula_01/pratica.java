@@ -61,7 +61,7 @@ public class pratica {
 
         // exercicio 3
 
-            ArrayList<int> MegaSena = new ArrayList<int>();
+            // ArrayList <int> MegaSena = new ArrayList<int>();
 
         
         // usa array lis pois ele tem metodos, tipo o array do js
