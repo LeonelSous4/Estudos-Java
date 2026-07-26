@@ -4,7 +4,16 @@ public class Aluno {
     
     public static void main(String[] args) {
 
+
+        
+
         Nota Leo = new Nota();
+
+        Nota Ana = new Nota(20,20,5);
+
+
+
+
         Leo.setNota1(10);
         Leo.setNota2(8);
         Leo.setFaltas(11);
@@ -27,6 +36,11 @@ public class Aluno {
         Leo.setFaltas(2);
 
         Leo.resultado();
+
+
+        System.out.println("Media Ana:");
+        Ana.resultado();
+        System.out.println();
 
     }
 }
